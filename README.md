@@ -17,6 +17,6 @@
 3. в методе __show_report__ добавить проверку имени отчета и вывод данные отчета в консоль
 4.* при необходимости форматированного вывода нового отчета можно создать новый класс с перегруженным методом __str__
 ## Скриншоты
-![Пример работы скрипта](screenshots\run_screenshot.png)  
-![Тестирование скрипта](screenshots\test_screenshot.png)  
-![Покрытие тестами скрипта](screenshots\pytest_cov_screenshot.png)  
+![Пример работы скрипта](/screenshots/run_screenshot.png)  
+![Тестирование скрипта](/screenshots/test_screenshot.png)  
+![Покрытие тестами скрипта](/screenshots/pytest_cov_screenshot.png)  
